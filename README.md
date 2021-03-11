@@ -1,59 +1,59 @@
-###LAB 1
+### LAB 1
 
 
-##Part 1
+## Part 1
 
 
-#thor.cpp - файл, в котором задется тор
+ thor.cpp - файл, в котором задется тор
 
-#Thor_in_a_cut.png - скриншот тора в разрезе
-
-
-#Thor_outside.png - скриншот тора снаружи
+ Thor_in_a_cut.png - скриншот тора в разрезе
 
 
-
-##Part 2
+ Thor_outside.png - скриншот тора снаружи
 
 
 
-#Arrow.stl - выбранный файл в интернете
-
-
-#Arrow.cpp - файл, в котором задается сетка
-
-
-#Arrow.png - скриншот полученной сетки
+## Part 2
 
 
 
-###LAB 2
+ Arrow.stl - выбранный файл в интернете
 
 
-#model.cpp  - файл, в котором задается поле скоростей на сетке, реализуется выбранная функция и записывается весь процесс в динамике последовательностью кадрой в vtk
+ Arrow.cpp - файл, в котором задается сетка
 
 
-
-#Arrow.stl - выбранный STL-объект
-
-
-#https://youtu.be/lmnnZ2NtjV0 - видео с распределением скорости на стреле
+ Arrow.png - скриншот полученной сетки
 
 
 
-#https://youtu.be/3Gg4QnkS7tU - видео с распределением давления на стреле
+### LAB 2
+
+
+ model.cpp  - файл, в котором задается поле скоростей на сетке, реализуется выбранная функция и записывается весь процесс в динамике последовательностью кадрой в vtk
 
 
 
-###LAB 3
+ Arrow.stl - выбранный STL-объект
+
+
+ https://youtu.be/lmnnZ2NtjV0 - видео с распределением скорости на стреле
 
 
 
-#HyperElasticity.cpp - измененный файл
+ https://youtu.be/3Gg4QnkS7tU - видео с распределением давления на стреле
 
 
 
-#initial_cube.png - до изменения файла HyperElasticity.cpp
+### LAB 3
 
 
-#final_cube.png - после изменение файла HyperElasticity.cpp
+
+ HyperElasticity.cpp - измененный файл
+
+
+
+ initial_cube.png - до изменения файла HyperElasticity.cpp
+
+
+ final_cube.png - после изменение файла HyperElasticity.cpp
